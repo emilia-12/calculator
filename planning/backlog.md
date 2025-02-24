@@ -7,11 +7,16 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user, I want to input numbers (0-9), so that I can enter values for calculation.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to perform basic arithmetic operations (+, -, ×, ÷),
+      so that I can solve simple math problems.
+
+- [ ] As a user, I want to see my input and results in a display area,
+      so that I can verify my calculations.
+
+- [ ] As a user, I want to see immediate results when I press equals,
+      so that I can quickly get my answers.
 
 ## Should-Haves
 
